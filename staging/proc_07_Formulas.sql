@@ -1,1 +1,4 @@
-﻿-- Staging Formulas
+-- Staging: Formula Computations
+-- Creates: [_Staging].[FormulaComplete]
+-- Called by: [_Silver].[usp_Refresh_EC_Portfolio_Expanded]
+-- TODO: Add full procedure definition

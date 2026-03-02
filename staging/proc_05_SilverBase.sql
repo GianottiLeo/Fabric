@@ -1,1 +1,4 @@
-﻿-- Staging SilverBase
+-- Staging: Silver Base
+-- Creates: [_Staging].[SilverBase]
+-- Called by: [_Silver].[usp_Refresh_EC_Portfolio_Expanded]
+-- TODO: Add full procedure definition

@@ -1,1 +1,4 @@
-﻿-- Staging PortfolioFunding
+-- Staging: Portfolio Funding
+-- Creates: [_Staging].[PortfolioFunding]
+-- Called by: [_Silver].[usp_Refresh_EC_Portfolio_Expanded]
+-- TODO: Add full procedure definition

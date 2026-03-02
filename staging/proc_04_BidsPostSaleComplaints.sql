@@ -1,1 +1,4 @@
-﻿-- Staging BidsPostSaleComplaints
+-- Staging: Bids, Post-Sale, Complaints
+-- Creates: [_Staging].[BidAggregates], [_Staging].[PostSaleAggregates], [_Staging].[ComplaintsByBuyer], [_Staging].[ComplaintsByPID]
+-- Called by: [_Silver].[usp_Refresh_EC_Portfolio_Expanded]
+-- TODO: Add full procedure definition
